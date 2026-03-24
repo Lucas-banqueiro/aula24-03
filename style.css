@@ -1,24 +1,26 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 50px;
-  background-color: black;
+  background-color: rgb(29, 27, 27);
+  margin: 15px;
 }
-header{
-    background-color: rgb(253, 228, 0);
-    padding: 5px;
-    display: flex;
+#pagina{
     text-align: center;
-    justify-content: space-between; 
-    padding-right: 50px;
-    align-items: center;
+}
+#nome {
+ text-align: center;
+color: rgb(255, 255, 255);
 }
 #introdução{
 color: brown;
 }
 #hobies{
-    color: rgb(0, 255, 64);
+    color: rgba(198, 223, 208, 0.938);
+}
+#gosto {
+    color: rgb(90, 156, 23);
 }
 #GitHub{
+    text-align: center;
     color: aqua;
 }
